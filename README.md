@@ -1,2 +1,2 @@
 # stats100
-A place for projects to live
+A place for data science & analytics projects to live
